@@ -15,4 +15,5 @@
 Модель dreamlike-photoreal-2.0: 
 ![photo_5190588825167056684_y](https://github.com/ki1ax/CVLAB8/assets/104005303/e20f1481-2601-431c-ab51-52f6b77ab8c7)
 ![photo_5190588825167056685_y](https://github.com/ki1ax/CVLAB8/assets/104005303/7b8a7933-843c-4c9f-90fe-29ee7757d964)
+![Uploading photo_5190588825167056683_y (1).jpg…]()
 
